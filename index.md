@@ -17,7 +17,7 @@ GIS professional with experience in environmental planning, water infrastructure
 ### Web Maps and Apps
 #### Heat Vulnerability Index and Dashboard
 
-This project includes a Heat Vulnerability Index to identify areas most at risk of extreme heat exposure in Ontario. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across the study area.
+This Capstone project includes a Heat Vulnerability Index to identify areas most at risk of extreme heat exposure in Ontario. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across the study area.
 
 The index was created using weighted spatial variables representing factors such as population characteristics, built environment, and exposure to heat. The results were mapped to highlight levels of vulnerability and support spatial understanding of heat risks.
 
@@ -27,6 +27,8 @@ To view interactive dashboard click here: https://experience.arcgis.com/experien
 
 #### Time Series Analysis of Water Pollution and Invertebrate Diversity
 
+This capstone project includes a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships was assessed using multilinear regression. the dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consitency. Spatial and temporal patterns are visualised using inverse distanace weighting interpolation and time cube analysis including temporal animations.
+
 To view interacitve StoryMap click here: https://arcg.is/1jyjOm1 
   
 ### Static Maps
@@ -34,13 +36,11 @@ To view interacitve StoryMap click here: https://arcg.is/1jyjOm1
 
 <img width="656" height="391" alt="Screenshot 2026-06-11 112053" src="https://github.com/user-attachments/assets/53bf9a66-318f-475f-b524-574a359943de" />
 
-This map shows...
+This map shows the most suiteble locations  for new fire stations in the Region of Waterloo. 
 
-#### Proposed Highway Routes Impacts on Surrounding Environmental Features
+A network-based service area analysis was conducted using a road network dataset with travel-time attributes to model realistic driving conditions. Service areas were generated for proposed fire station locations to assess how additional facilities could improve response coverage.
 
-<img width="467" height="324" alt="Screenshot 2026-06-11 112336" src="https://github.com/user-attachments/assets/bbb4ae9c-45de-4b25-84f7-1bbdd93d5fa8" />
-
-This map shows.......
+The resulting map illustrates the projected service area coverage of proposed stations, offering improvements in coverage and call response times.
 
 #### Proposed Highway Route Impact on Parcels and Buildings
 
@@ -52,10 +52,18 @@ This map shows....
 
 <img width="544" height="395" alt="Screenshot 2026-06-11 112714" src="https://github.com/user-attachments/assets/5ae24528-9ec8-48a0-8d32-9bf941faa9c8" />
 
-This map shows...
+This map displays suitable locations for wind farm development in the Region of Waterloo by combining wind conditions with land-use restrictions.
+
+The analysis considered average wind speed and wind consistency to rank areas by suitability. Areas unsuitable for development were excluded using spatial constraints.
+
+The final map highlights the most suitable zones for wind farm development based on wind potential and site restrictions.
 
 #### Point Pattern Analysis of Squirrel Hotspot Locations
 
 <img width="482" height="326" alt="Screenshot 2026-06-11 115907" src="https://github.com/user-attachments/assets/9782e22b-c08e-4d2b-aa14-a24d5ba52f19" />
 
-These maps display.....
+These maps display the spatial distribution of eastern grey squirrel sightings on the University of Waterloo campus to identify areas of high densdity and activity. 
+
+Using R, point observations were processed and converted into spatial point patterns, and kernel density estimation was used to generate continuous density surfaces. Both weighted and non-weighted density models were produced to reflect differences in observation abundance.
+
+The maps display spatial clustering patterns and hotspots of squirrel activity, including environmental features such as roads, buildings, and waterways to provide spatial context. 
