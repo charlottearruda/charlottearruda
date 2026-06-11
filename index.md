@@ -3,7 +3,11 @@
 GIS Analyst | Environmental Planning | Spatial Analysis
 
 ## About Me
-GIS professional with experience in environmental planning, water infrastructure, and spatial analysis using ArcGIS and QGIS.
+GIS and spatial analyst with educational and professional experience in environmental planning, water infastructure, and geospatial technologies. Possessing a Bachelor of Environmental Studies in Planning and a Diploma of excellince in Geogrphic information systems from the University of Waterloo.
+
+Experience includes environmental and landscape planning, geostatistical analysis, index and dashboard development, and geospatial data management through academic and co-op projects.
+
+Interested in applying GIS to environmental challenges, including ecological restoration, watershed management and landscape analysis.
 
 ## Skills
 **GIS and Spatial Analysis:** ArcGIS Pro, QGIS, ArcGIS Online, Experience Builder, StoryMaps, Survey123, Field Maps, Leaflet, Geocoding, spatial 
