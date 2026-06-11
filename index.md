@@ -46,7 +46,11 @@ The resulting map illustrates the projected service area coverage of proposed st
 
 <img width="470" height="337" alt="Screenshot 2026-06-11 112419" src="https://github.com/user-attachments/assets/26370bea-9d84-4e2b-9ed0-6623553bbb9c" />
 
-This map shows....
+This map shows two proposed routs highways west of Waterloo Region. Spatial analysis was used to quantify land-use and built-environment impacts. The analysis focuses on spatial intersections between proposed highway routes, land parcels, and building footprints.
+
+Using QGIS and PostGIS, proximity and overlay operations were applied to assess impacts along each route. Buildings within a 95-metre buffer and parcels within a 90-meter buffer of the proposed highways were identified using distance-based spatial queries to flag features at risk of displacement.
+
+The outputs provide indicators of infrastructure impact, allowinf for comparative assessment of highway route impacts.
 
 #### Analysis of Suitable Locations for Wind Farms
 
