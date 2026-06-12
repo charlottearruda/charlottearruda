@@ -1,5 +1,4 @@
-# GIS Portfolio
-## Charlotte Arruda
+# Charlotte Arruda
 
 GIS Analyst | Environmental Planning | Spatial Analysis
 
@@ -27,7 +26,7 @@ The index was created using weighted spatial variables representing factors such
 
 An interactive dashboard visualizes the index results, allowing users to explore spatial patterns and underlying indicators for municipal decision-making purposes. The dashboard includes an index for all of Ontario and three in-depth case studies of municipalities within Ontario.
 
-###### [View Project](https://experience.arcgis.com/experience/ec67536086ff47a0aaddbb6f2d0c46c9)
+##### [View Project](https://experience.arcgis.com/experience/ec67536086ff47a0aaddbb6f2d0c46c9)
 #### Time Series Analysis of Water Pollution and Invertebrate Diversity
 
 This capstone project includes a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consitency. Spatial and temporal patterns were visualised using inverse distanace weighting interpolation and time cube analysis, including temporal animations.
