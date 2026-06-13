@@ -2,7 +2,7 @@
 GIS Analyst | Environmental Planning | Spatial Analysis
 
 ## About Me
-GIS and spatial analyst with educational and professional experience in environmental planning, water infastructure, and geospatial technologies. Earned a Bachelor of Environmental Studies in Planning and a Diploma of Excellence in Geogrphic Information Systems from the University of Waterloo.
+GIS and spatial analyst with educational and professional experience in environmental planning, water infastructure, and geospatial technologies. Earned a Bachelor of Environmental Studies in Planning and a Diploma of Excellence in Geographic Information Systems from the University of Waterloo.
 
 Experience includes environmental and landscape planning, geostatistical analysis, index and dashboard development and geospatial data management through academic and co-op projects.
 
